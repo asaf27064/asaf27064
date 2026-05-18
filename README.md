@@ -6,6 +6,7 @@ Based in Israel
 💻 Full Stack · Backend · Mobile
 
 🌱 Open to new opportunities
+
 ---
 
 ## Featured Projects
