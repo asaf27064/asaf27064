@@ -1,8 +1,11 @@
 # Hi, I'm Asaf Ohana
 
 B.Sc. Computer Science · Bar-Ilan University · 2025  
-Full Stack · Backend
+Based in Israel
 
+💻 Full Stack · Backend · Mobile
+
+🌱 Open to new opportunities
 ---
 
 ## Featured Projects
