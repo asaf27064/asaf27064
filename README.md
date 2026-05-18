@@ -7,13 +7,13 @@ Full Stack · Backend
 
 ## Featured Projects
 
-### [GoodBuy](https://github.com/asaf27064/GoodBuy-app) — Collaborative Grocery Price Comparison
-End-to-end mobile system built for the Israeli market. Real-time shared shopping lists, automated supermarket pricing pipeline, and a hybrid AI recommendation engine.
+### [GoodBuy](https://github.com/asaf27064/GoodBuy-app) - Grocery Price Comparison & Collaborative Lists
+React Native app. Scrapes live pricing from supermarket chains via an isolated background worker, syncs shared shopping lists in real time over Socket.IO, and serves AI-powered purchase recommendations (Gemini API + co-occurrence + Jaccard CF).
 
 `React Native` `Expo` `Node.js` `Express` `MongoDB` `Socket.IO` `Puppeteer` `Gemini API` `Cloudflare R2` `Docker`
 
 ### [WarrantyTracker](https://github.com/asaf27064/warranty-tracker) — Product Warranty Management
-Web app that tracks warranties and fires automated reminders at 30 / 7 / 1 day before expiry. Google OAuth, document storage, smart status tracking.
+Full-stack TypeScript web app. Tracks warranty expiry, auto-creates reminders at 30 / 7 / 1 days out via a daily cron job, and handles document & image storage on Cloudflare R2. Google OAuth with JWT refresh-token rotation.
 
 `TypeScript` `React` `Node.js` `PostgreSQL` `Prisma` `Cloudflare R2` `Google OAuth`
 
@@ -31,6 +31,9 @@ Web app that tracks warranties and fires automated reminders at 30 / 7 / 1 day b
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+
+![Claude](https://img.shields.io/badge/Claude-Anthropic-000000?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
